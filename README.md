@@ -1,5 +1,7 @@
 Use:
 
+	from bashify import bashify
+
     lines = ["test=$(service mongod status)", "echo 'test'", "echo $test"]
     name = "test"
 
