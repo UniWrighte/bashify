@@ -1,0 +1,7 @@
+dist
+dist/
+build
+build/
+bashify.egg-info
+pycache
+pycache/

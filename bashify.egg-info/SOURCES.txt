@@ -1,4 +1,5 @@
 README.md
+bashify.py
 setup.py
 bashify.egg-info/PKG-INFO
 bashify.egg-info/SOURCES.txt

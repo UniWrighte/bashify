@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: bashify
-Version: 0.1.1
+Version: 0.1.3
 Summary: A package to print and execture bash files
 Home-page: https://github.com/UniWrighte/bashify
 Author: David Kamer
